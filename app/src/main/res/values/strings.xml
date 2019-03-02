@@ -1,4 +1,11 @@
 <resources>
-    <string name="app_name">Welcome_to_Mobile_Tracking_app</string>
+    <string name="app_name">Mobile_Tracking_app</string>
     <string name="Button">Login</string>
+    <string name="NextButton">Next</string>
+    <string name="editText">Enter your email</string>
+    <string name="password">Enter your Password</string>
+    <string name="editTextpassword">Password</string>
+    <string name="signInButton">SIGN IN</string>
+    <string name="SendButton">Send</string>
+
 </resources>
